@@ -2556,21 +2556,6 @@
       "fileSize": 1121678
     },
     {
-      "path": "mods/ValkyrienPirates-1.8.1.jar",
-      "hashes": {
-        "sha1": "1c929466b8a44d3ff8786ad01be4823ea9739f60",
-        "sha512": "c5f5706a78fa2c617b8833130a807005c536f68f25bfa61b6668835bc00d18c57797a6130474134ffddd2fd0a854df211cf16eee08ed93fc25401db759210d17"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/jv8hXuHT/versions/NHMxtwkG/ValkyrienPirates-1.8.1.jar"
-      ],
-      "fileSize": 2282601
-    },
-    {
       "path": "mods/krypton-0.2.3.jar",
       "hashes": {
         "sha512": "92b73a70737cfc1daebca211bd1525de7684b554be392714ee29cbd558f2a27a8bdda22accbe9176d6e531d74f9bf77798c28c3e8559c970f607422b6038bc9e",
