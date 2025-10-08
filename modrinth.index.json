@@ -126,21 +126,6 @@
       "fileSize": 621495
     },
     {
-      "path": "mods/animated-mojang-logo-1.2.1.jar",
-      "hashes": {
-        "sha1": "2e2bbe4e4b182d806e7c1e35ae741632437d08a8",
-        "sha512": "73b5b808ee9489d4030ebea39a198500f1fdca5f27bcf6dae008cead18d4c6110af1ddb24b6a48b0ea8198d8d08c87ab3e5ec9915931c822f12fd4bc4ec9ba97"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/dWUOweyL/versions/Eun9xGX3/animated-mojang-logo-1.2.1.jar"
-      ],
-      "fileSize": 2790453
-    },
-    {
       "path": "mods/language-reload-1.7.4+1.20.1.jar",
       "hashes": {
         "sha512": "0df0c486b02a86e33a29e48615d5379b5824104a9c34ce76d7072c7cb41a5578e2195fc5bd21c8627869f8101f378b97d620632335dc360e784f67e954ab0290",
