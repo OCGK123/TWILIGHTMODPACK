@@ -1356,21 +1356,6 @@
       "fileSize": 2286447
     },
     {
-      "path": "mods/TreeChop-1.20.1-fabric-0.19.0.jar",
-      "hashes": {
-        "sha1": "2b2821168355d9c96fcd26d59c4138ac9d155f00",
-        "sha512": "f483b3884b22203d29a3637b74bd4524267e23956ab02f86074653a3530d2b8a550004013f5986e123f9c1ebe66b6feaa2a31433ae4a0eae0fd1ca9df07c3958"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gHoB7SHO/versions/tIdTnzkf/TreeChop-1.20.1-fabric-0.19.0.jar"
-      ],
-      "fileSize": 490611
-    },
-    {
       "path": "mods/ValkyrienEngines-1.0.2.jar",
       "hashes": {
         "sha512": "6c358424857e3650ccbf1c9f7c70c4432e31692ceb4c175471050ddb10352d6405354c12d4b1b416afdb32023a95c3c317a36e577564d487dd44e6484a17e39a",
